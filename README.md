@@ -2,7 +2,7 @@
 
 #### 원격저장소 로컬에 가져오기
 
-<code> git clone https://github.com/sineTlsl/FE-Algorithm-Study.git </code>
+<code> git clone https://github.com/forhrever/Dream-Hope-Study.git </code>
 
 #### 로컬에서 branch 생성하기
 
@@ -18,7 +18,7 @@
 
 #### Merge된 후, Repository 최신으로 동기화하기
 
-1. <code> git remote add upstream 원본저장소URL </code>
+1. <code> git remote add upstream 원본저장소URL </code>`
 2. <code> git remote -v </code>
 3. <code> git fetch upstream </code>
 4. <code> git checkout main </code>
