@@ -24,3 +24,14 @@
 4. <code> git checkout main </code>
 5. <code> git merge upstream/main </code>
 6. <code> git push origin main </code>
+
+#### 예시
+
+> 레파지토리 clone 부터 시작 예시 따라만 해주세요~
+
+1. git clone https://github.com/forhrever/Dream-Hope-Study.git
+2. 브랜치를 생성한다 => git branch forhrever
+3. git checkout forhrever
+4. 본인의 폴더 아래에 문제이름 js 파일을 만들어서 풀어서 저장한다.
+5. git status 를 확인한다
+   ![](https://velog.velcdn.com/images/app235naver/post/3655c051-8b56-4ce6-b4ba-757400529053/image.png)
