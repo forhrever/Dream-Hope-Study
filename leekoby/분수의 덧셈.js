@@ -1,3 +1,4 @@
+//https://school.programmers.co.kr/learn/courses/30/lessons/120808
 function solution(denum1, num1, denum2, num2) {
     var answer = [0, 0];
     let first = num1 * denum2 + num2 * denum1;
