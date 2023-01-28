@@ -1,4 +1,4 @@
-//  https://school.programmers.co.kr/learn/courses/30/lessons/120907
+//  https://school.programmers.co.kr/learn/courses/30/lessons/120907/
 function solution(quiz) {
     let ans = [];
 
@@ -27,7 +27,7 @@ function solution(quiz) {
         if (calc !== result) {
             ans.push("X");
         }
-    })
+    });
 
     return ans;
 }
