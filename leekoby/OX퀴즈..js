@@ -29,7 +29,7 @@ function solution(quiz) {
         if (calc !== result) {
             ans.push("X");
         }
-    })
+    });
 
     return ans;
 }
